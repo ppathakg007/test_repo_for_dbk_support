@@ -7,6 +7,8 @@
 
 %sh ls -l
 
+# COMMAND ----------
+
 # MAGIC %pip install .
 
 # COMMAND ----------
