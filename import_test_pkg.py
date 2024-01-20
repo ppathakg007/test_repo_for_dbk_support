@@ -1,4 +1,12 @@
 # Databricks notebook source
+# COMMAND ----------
+
+%sh pwd
+
+# COMMAND ----------
+
+%sh ls -l
+
 # MAGIC %pip install .
 
 # COMMAND ----------
