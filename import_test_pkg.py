@@ -32,6 +32,10 @@
 
 # COMMAND ----------
 
+ls -l
+
+# COMMAND ----------
+
 # MAGIC %sh
 # MAGIC pip install wheel setuptools
 
